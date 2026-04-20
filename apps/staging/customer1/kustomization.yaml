@@ -19,4 +19,4 @@ patches:
     patch: |-
       - op: replace
         path: /spec/configuration/destinationPath
-        value: "https://mercurybackupsstaging.blob.core.windows.net/customer1"
+        value: "https://mercurybackupsstaging3.blob.core.windows.net/customer1"
